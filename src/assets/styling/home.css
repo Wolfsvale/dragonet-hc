@@ -29,6 +29,7 @@ body {
 }
 
 img {
+    margin-left: 50px;
     text-align: right;
     float: right !important;
 }
@@ -52,4 +53,16 @@ img {
 
 b {
     color: var(--black);
+}
+
+.footer {
+    width: 95%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 0 0 0 0;
+    align-items: center;
+}
+
+.copyright {
+    font-size: 18px;
 }
