@@ -10,7 +10,7 @@ We are currently still in progress, and unavailable to customers.
 - Integrations with social media such as:
   - Discord
   - Twitter
-  - Reddit
+  - ~~Reddit~~ ⚠️ We cannot guarantee this with recent API changes from Reddit
   - Telegram
 - API for custom apps
 - Webhook deliveries for events such as:
